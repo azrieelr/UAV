@@ -4,8 +4,8 @@
 <head>
 </head>
 <Scene>
-<Transform DEF='tranform'  scaleOrientation='0 0 0 0' rotation='1 1 1 1' center='1 1 1'>
-  <Transform DEF='MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MES_Transform'  scaleOrientation='0 0 0 0' rotation='0 0 0 0'>
+<Transform DEF='tranform'  scale='0.053 0.053 0.053' rotation='-25 250 7.4 4.85' center='-545 -105 -775'>
+  <Transform DEF='MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MES_Transform'  rotation='2 5 -7 6' center='-60 100 -250'>
     <Shape DEF='MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MES_Shape' >
       <Appearance>
         <Material DEF='MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MES_Material' >
@@ -18,5 +18,9 @@
     </Shape>
   </Transform>
 </Transform>
+<Viewpoint DEF='Baru'  fieldOfView='0.7854' orientation='-0.885582 -0.452746 0.103758 0.155798' position='-599.106 50.2058 -33.5292'>
+</Viewpoint>
+<Background skyColor='0.8 1 1'>
+</Background>
 </Scene>
 </X3D>
